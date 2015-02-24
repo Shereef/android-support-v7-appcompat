@@ -311,7 +311,7 @@
         <item name="maxButtonHeight">56dp</item>
         <item name="collapseIcon">?attr/homeAsUpIndicator</item>
         <item name="collapseContentDescription">@string/abc_toolbar_collapse_description</item>
-        <item name="contentInsetStart">16dp</item>
+        <item name="contentInsetStart">0dp</item>
     </style>
 
     <style name="Base.Widget.AppCompat.Toolbar.Button.Navigation" parent="android:Widget">
